@@ -15,7 +15,7 @@
     "type": "git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@debo24/panaromaswap_lib"
+    "registry": "https://npm.pkg.github.com/@debo_karmakar/panaromaswap_lib"
   },
   "bugs": {
     "url": "https://github.com/debo24/panaromaswap_lib/issues"
@@ -44,6 +44,5 @@
     "pretest": "yarn compile",
     "test": "mocha",
     "prepublishOnly": "yarn test"
-  },
-  "license": "GPL-3.0-or-later"
+  }
 }
