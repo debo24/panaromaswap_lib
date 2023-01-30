@@ -1,6 +1,6 @@
 {
   "name": "panaromaswap_lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Solidity libraries for Panaromaswap contracts",
   "files": [
     "contracts",
